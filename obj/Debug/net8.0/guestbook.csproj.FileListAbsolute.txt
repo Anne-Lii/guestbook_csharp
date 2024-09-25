@@ -12,3 +12,4 @@ C:\mittuniversitetet\csharpdotnet\moment3\guestbook\obj\Debug\net8.0\refint\gues
 C:\mittuniversitetet\csharpdotnet\moment3\guestbook\obj\Debug\net8.0\guestbook.pdb
 C:\mittuniversitetet\csharpdotnet\moment3\guestbook\obj\Debug\net8.0\guestbook.genruntimeconfig.cache
 C:\mittuniversitetet\csharpdotnet\moment3\guestbook\obj\Debug\net8.0\ref\guestbook.dll
+C:\mittuniversitetet\csharpdotnet\moment3\guestbook\obj\Debug\net8.0\guestbook.sourcelink.json
